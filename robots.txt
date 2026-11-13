@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://niranjana.sanchaya.net/sitemap.xml
